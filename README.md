@@ -4,9 +4,9 @@ Com a finalidade de entender melhor o perfil dos clientes para potencializar a v
 
 Finalizada a campanha, o marketing disponibilizou a base de dados e solicitou uma análise do perfil dos clientes à área de Analytics. A expectativa é que esse estudo forneça informações suficientes para que as próximas campanhas sejam direcionadas para o público mais propenso a comprar o produto de investimento.
 
-Para identificar o perfil dos clientes foi realizada uma análise exploratória dos dados com Python – utilizando as bibliotecas pandas, numpy, seaborn e matplotlib.
+Para identificar o perfil dos clientes, foi realizada uma análise exploratória dos dados com Python – utilizando as bibliotecas pandas, numpy, seaborn e matplotlib.
 
-Aqui, estão alguns insights e oportunidades de melhorias iniciais.
+Aqui, estão alguns insights e oportunidades de melhorias iniciais:
 
 Variável: Cliente comprou titulo?
 - Ligeira maioria da base não comprou o título (50,66%)
