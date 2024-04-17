@@ -54,12 +54,12 @@ Variável: Tem hipoteca?
 - Isso é bom ou ruim?
 - Qual a meta?
 - Qual benchmark?
-- 
+  
 Variável: Tem empréstimo?
 - A base, majoritariamente, NÃO possui emprestimo (88,36%). Isso é bom porque eles tem mais dinheiro para investir? Isso é bom para argumentar que eles podem pegar algum emprestimo para financiar algum sonho/projeto e pagar com rendimento do investimento?
 - Qual a meta?
 - Qual o benchmark?
-- 
+  
 Variável: Qtd Ligações Feitas
 - Realizar até 4 ligações foi suficiente para atingir 82,42% da base; investir em mais ligações do que isso só consegue atingir 17,58% da base. O investimento em mais de 4 ligações se justifica?
 - Qual a meta?
