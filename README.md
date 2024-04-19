@@ -1,4 +1,4 @@
-# EDA-Bank-Marketing
+# EDA (Exploratory Data Analysis) - Bank Marketing
 
 Com a finalidade de entender melhor o perfil dos clientes para potencializar a venda de um produto de investimento, a área de marketing criou uma campanha selecionando alguns clientes para realizar a oferta. A duração da campanha foi de 3 meses e abrangeu todo o Brasil. 
 
